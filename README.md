@@ -1,5 +1,6 @@
 ## Hi there 👋
 我是MelodyHsu
+目前就讀淡江大學資傳系二年級
 <!--
 **MelodyHsu1123/MelodyHsu1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
